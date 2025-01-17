@@ -1,4 +1,4 @@
-# Stone Paper Scissors Game
+# Stone Paper Scissors (SPS) Game
 
 ## Description
 
