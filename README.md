@@ -47,4 +47,5 @@ This is my first JavaScript project - a classic Stone Paper Scissors game implem
 - Add sound effects for different game outcomes.
 - Create a mobile-friendly version of the game.
 
+
 Feel free to explore the code and provide any feedback or suggestions for improvement!
