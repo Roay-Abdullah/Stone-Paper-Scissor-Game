@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #001d3d;
+}
+
+body{
+    height: 750px;
+}
+
+/* Heading */
+
+h1{
+    background-color: #ff5400;
+    color: white;
+    height: 5rem;
+    line-height: 5rem;
+}
+
+/* Options */
+
+.options{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 5rem;
+}
+
+.option{
+    height: 165px;
+    width: 165px;
+    border: 0.5px solid black ;
+    border-radius: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.option:hover{
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+/* Option images */
+
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 25%;
+}
+
+/* Score-Board */
+
+.score-board{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-top: 3rem;
+    gap: 5rem;
+}
+
+#user-score{
+    font-size: 4rem;
+}
+
+#comp-score{
+    font-size: 4rem;
+}
+
+/* Messages */
+
+.msg-container{
+    margin-top: 5rem;
+}
+
+#msg{
+    background-color: white;
+    color: black;
+    font-size: 2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+
+/* Footer */
+
+pre{
+    margin-top: 4rem;
+    background-color: #ff5400;
+    color: white;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+}
+
+
+
